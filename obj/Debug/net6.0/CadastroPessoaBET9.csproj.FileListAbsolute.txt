@@ -1,0 +1,105 @@
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER2\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.exe
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER2\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.deps.json
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER2\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.runtimeconfig.json
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER2\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER2\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.pdb
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER2\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.csproj.AssemblyReference.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER2\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER2\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.AssemblyInfoInputs.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER2\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.AssemblyInfo.cs
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER2\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.csproj.CoreCompileInputs.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER2\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER2\CadastroPessoaBET9\obj\Debug\net6.0\refint\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER2\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.pdb
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER2\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.genruntimeconfig.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER2\CadastroPessoaBET9\obj\Debug\net6.0\ref\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER3\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.exe
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER3\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.deps.json
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER3\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.runtimeconfig.json
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER3\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER3\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.pdb
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER3\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.csproj.AssemblyReference.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER3\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER3\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.AssemblyInfoInputs.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER3\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.AssemblyInfo.cs
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER3\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.csproj.CoreCompileInputs.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER3\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER3\CadastroPessoaBET9\obj\Debug\net6.0\refint\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER3\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.pdb
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER3\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.genruntimeconfig.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER3\CadastroPessoaBET9\obj\Debug\net6.0\ref\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER4\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.exe
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER4\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.deps.json
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER4\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.runtimeconfig.json
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER4\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER4\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.pdb
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER4\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.csproj.AssemblyReference.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER4\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER4\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.AssemblyInfoInputs.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER4\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.AssemblyInfo.cs
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER4\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.csproj.CoreCompileInputs.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER4\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER4\CadastroPessoaBET9\obj\Debug\net6.0\refint\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER4\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.pdb
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER4\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.genruntimeconfig.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER4\CadastroPessoaBET9\obj\Debug\net6.0\ref\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER5\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.exe
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER5\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.deps.json
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER5\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.runtimeconfig.json
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER5\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER5\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.pdb
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER5\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.csproj.AssemblyReference.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER5\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER5\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.AssemblyInfoInputs.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER5\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.AssemblyInfo.cs
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER5\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.csproj.CoreCompileInputs.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER5\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER5\CadastroPessoaBET9\obj\Debug\net6.0\refint\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER5\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.pdb
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER5\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.genruntimeconfig.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER5\CadastroPessoaBET9\obj\Debug\net6.0\ref\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER6\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.exe
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER6\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.deps.json
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER6\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.runtimeconfig.json
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER6\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER6\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.pdb
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER6\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.csproj.AssemblyReference.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER6\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER6\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.AssemblyInfoInputs.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER6\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.AssemblyInfo.cs
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER6\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.csproj.CoreCompileInputs.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER6\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER6\CadastroPessoaBET9\obj\Debug\net6.0\refint\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER6\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.pdb
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER6\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.genruntimeconfig.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER6\CadastroPessoaBET9\obj\Debug\net6.0\ref\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER7\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.exe
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER7\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.deps.json
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER7\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.runtimeconfig.json
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER7\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER7\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.pdb
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER7\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.csproj.AssemblyReference.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER7\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER7\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.AssemblyInfoInputs.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER7\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.AssemblyInfo.cs
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER7\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.csproj.CoreCompileInputs.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER7\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER7\CadastroPessoaBET9\obj\Debug\net6.0\refint\CadastroPessoaBET9.dll
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER7\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.pdb
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER7\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.genruntimeconfig.cache
+C:\Users\odirlei\Documents\CTM\Back-end Turma 9\UC9 - ER7\CadastroPessoaBET9\obj\Debug\net6.0\ref\CadastroPessoaBET9.dll
+C:\Users\daniel.santos\Documents\CTM\PBE\UC9\SA2\ER8\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.exe
+C:\Users\daniel.santos\Documents\CTM\PBE\UC9\SA2\ER8\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.deps.json
+C:\Users\daniel.santos\Documents\CTM\PBE\UC9\SA2\ER8\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.runtimeconfig.json
+C:\Users\daniel.santos\Documents\CTM\PBE\UC9\SA2\ER8\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.dll
+C:\Users\daniel.santos\Documents\CTM\PBE\UC9\SA2\ER8\CadastroPessoaBET9\bin\Debug\net6.0\CadastroPessoaBET9.pdb
+C:\Users\daniel.santos\Documents\CTM\PBE\UC9\SA2\ER8\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.csproj.AssemblyReference.cache
+C:\Users\daniel.santos\Documents\CTM\PBE\UC9\SA2\ER8\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.santos\Documents\CTM\PBE\UC9\SA2\ER8\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.AssemblyInfoInputs.cache
+C:\Users\daniel.santos\Documents\CTM\PBE\UC9\SA2\ER8\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.AssemblyInfo.cs
+C:\Users\daniel.santos\Documents\CTM\PBE\UC9\SA2\ER8\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.csproj.CoreCompileInputs.cache
+C:\Users\daniel.santos\Documents\CTM\PBE\UC9\SA2\ER8\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.dll
+C:\Users\daniel.santos\Documents\CTM\PBE\UC9\SA2\ER8\CadastroPessoaBET9\obj\Debug\net6.0\refint\CadastroPessoaBET9.dll
+C:\Users\daniel.santos\Documents\CTM\PBE\UC9\SA2\ER8\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.pdb
+C:\Users\daniel.santos\Documents\CTM\PBE\UC9\SA2\ER8\CadastroPessoaBET9\obj\Debug\net6.0\CadastroPessoaBET9.genruntimeconfig.cache
+C:\Users\daniel.santos\Documents\CTM\PBE\UC9\SA2\ER8\CadastroPessoaBET9\obj\Debug\net6.0\ref\CadastroPessoaBET9.dll
