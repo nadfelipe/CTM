@@ -9,6 +9,8 @@ namespace CadastroPessoaBET9.Classes
 
         public string? razaoSocial { get; set; }
 
+        public string caminho { get; private set; } = "Database/PessoaJuridica.csv";
+
         //  Para Rendimentos até 3000, 3%
         // 	Para rendimentos entre 3000 e 6000, 5%
         // 	Para rendimentos entre 6000 e 10000, 7%
@@ -62,11 +64,44 @@ namespace CadastroPessoaBET9.Classes
 
                 if (subStringCnpj18 == "0001")
                 {
-                   return true; 
+                    return true;
                 }
             }
 
             return false;
+        }
+
+        public void Inserir(PessoaJuridica pj){
+            Utils.VeriicarPastaArquivo(caminho);
+
+            string[] pjStrings = {$"{pj.nome},{pj.cnpj},{pj.razaoSocial}"};
+
+            File.AppendAllLines(caminho, pjStrings);
+        }
+
+        public List<PessoaJuridica> LerArquivo(){
+            List<PessoaJuridica> listaPj = new List<PessoaJuridica>();
+
+            Console.WriteLine($"lista pj vazia {listaPj}");
+
+            string[] linhas = File.ReadAllLines(caminho);
+
+            // Nome Pj,62.401.115/0001-40,Razão Social Pj
+            foreach (string cadaLinha in linhas)
+            {
+                string[] atributos = cadaLinha.Split(",");
+
+                PessoaJuridica cadaPj = new PessoaJuridica();
+
+                cadaPj.nome = atributos[0];
+                cadaPj.cnpj = atributos[1];
+                cadaPj.razaoSocial = atributos[2];
+
+                listaPj.Add(cadaPj);
+            }
+
+            Console.WriteLine($"lista pj depois do foreach {listaPj}");
+            return listaPj;
         }
     }
 }

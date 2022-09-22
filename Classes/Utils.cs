@@ -15,5 +15,20 @@ namespace CadastroPessoaBET9.Classes
             }
             Console.ResetColor();
         }
+
+        public static void VeriicarPastaArquivo(string caminho){
+
+            string pasta = caminho.Split("/")[0];
+
+            if (!Directory.Exists(pasta))
+            {
+                Directory.CreateDirectory(pasta);
+            }
+
+            if (!File.Exists(caminho))
+            {
+                using (File.Create(caminho)){}
+            }
+        }
     }
 }

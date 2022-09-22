@@ -40,15 +40,15 @@ do
             {
                 Console.Clear();
                 Console.WriteLine(@$"
-=============================================
-|       Escolha uma das opções abaixo       |
-|-------------------------------------------|
-|       1 - Cadastrar Pessoa Física         |
-|       2 - Listar Pessoas Física           |
-|                                           |
-|       0 - Voltar ao menu anterior         |
-=============================================
-");
+                                    =============================================
+                                    |       Escolha uma das opções abaixo       |
+                                    |-------------------------------------------|
+                                    |       1 - Cadastrar Pessoa Física         |
+                                    |       2 - Listar Pessoas Física           |
+                                    |                                           |
+                                    |       0 - Voltar ao menu anterior         |
+                                    =============================================
+                                    ");
                 opcaoPf = Console.ReadLine();
 
                 switch (opcaoPf)
@@ -114,10 +114,30 @@ do
 
                         novaPf.endereco = novoEndPf;
 
-                        listaPf.Add(novaPf);
+                        //adicionamos a pessoa cadastrada dentro da lista
+                        // listaPf.Add(novaPf);
+
+                        //aqui vamos instanciar um pacote para gerar
+                        //um arquivo txt
+                        //instanciamos uma classe e passamos o nome que
+                        //desejo para o arquivo como parametro (nome.txt)
+                        //ele vai criar esse arquivo na root do projeto
+                        // StreamWriter sw = new StreamWriter($"{novaPf.nome}.txt");
+                        // sw.WriteLine(novaPf.nome);//o que vamos escrever dentro desse arquivo
+                        // sw.Close();//finaliza o arquivo
+
+                        //testar uma, comentar e depois a outra
+
+                        //outra maneira de fazer(descartando o Close();)
+                        //enquanto estiver executando algo dentro das chaves
+                        //o recurso passado como parametro estará disponível
+                        using (StreamWriter sw = new StreamWriter($"{novaPf.nome}.txt")) //using statement
+                        {
+                            sw.WriteLine(novaPf.nome);
+                        }
 
                         Console.ForegroundColor = ConsoleColor.DarkGreen;
-                        Console.WriteLine($"CAdastro realizado com sucesso");
+                        Console.WriteLine($"Cadastro realizado com sucesso");
                         Console.ResetColor();
                         Thread.Sleep(3000);
 
@@ -134,11 +154,11 @@ do
                             {
                                 Console.Clear();
                                 Console.WriteLine(@$"
-Nome: {cadaPf.nome}
-Endereco: {cadaPf.endereco.logradouro}, {cadaPf.endereco.numero}
-Data de Nascimento: {cadaPf.dataNasc.ToString("d")}
-Imposto a ser pago: {metodosPf.CalcularImposto(cadaPf.rendimento).ToString("C")}
-");
+                                    Nome: {cadaPf.nome}
+                                    Endereco: {cadaPf.endereco.logradouro}, {cadaPf.endereco.numero}
+                                    Data de Nascimento: {cadaPf.dataNasc.ToString("d")}
+                                    Imposto a ser pago: {metodosPf.CalcularImposto(cadaPf.rendimento).ToString("C")}
+                                    ");
 
                                 Console.WriteLine($"Aperte 'ENTER' para continuar");
                                 Console.ReadLine();
@@ -150,6 +170,21 @@ Imposto a ser pago: {metodosPf.CalcularImposto(cadaPf.rendimento).ToString("C")}
                             Console.WriteLine($"Lista vazia");
                             Thread.Sleep(2000);
                         }
+
+                        using (StreamReader sr = new StreamReader("nome do arquivo que criamos.txt"))
+                        {
+                            string linha; //variavel armazenar a leitura
+
+                            //se o conteudo da linha for diferente 
+                            //de nulo entao mostre o conteudo da linha														
+                            while ((linha = sr.ReadLine()) != null)
+                            {
+                                Console.WriteLine($"{linha}");
+                            }
+                        }
+
+                        Console.WriteLine($"Aperte 'Enter' para continuar...");
+                        Console.ReadLine();
 
                         break;
 
@@ -179,6 +214,7 @@ Imposto a ser pago: {metodosPf.CalcularImposto(cadaPf.rendimento).ToString("C")}
 
         case "2":
 
+            PessoaJuridica metodosPj = new PessoaJuridica();
             PessoaJuridica novaPj = new PessoaJuridica();
             Endereco novoEndPj = new Endereco();
 
@@ -194,16 +230,36 @@ Imposto a ser pago: {metodosPf.CalcularImposto(cadaPf.rendimento).ToString("C")}
 
             novaPj.endereco = novoEndPj;
 
-            Console.Clear();
-            Console.WriteLine(@$"
-Nome: {novaPj.nome}
-Razão Social: {novaPj.razaoSocial}
-CNPJ: {novaPj.cnpj} - Valido: {(novaPj.ValidarCnpj(novaPj.cnpj) ? "Sim" : "Não")}
-");
+            
+            metodosPj.Inserir(novaPj);
+            //insere e pula a linha
+            //texto para colunas no excel para abrir o csv dados > textos para colunas > delimitado > virgula
 
-            // condição ? "sim" : "nao"
-            Console.WriteLine($"Aperte 'ENTER' para continuar");
-            Console.ReadLine();
+
+            List<PessoaJuridica> listaPj = metodosPj.LerArquivo();
+
+            foreach (PessoaJuridica cadaItem in listaPj)
+            {
+                Console.Clear();
+                Console.WriteLine(@$"
+                                Nome: {cadaItem.nome}
+                                Razão Social: {cadaItem.razaoSocial}
+                                CNPJ: {cadaItem.cnpj} - Valido: {(cadaItem.ValidarCnpj(cadaItem.cnpj) ? "Sim" : "Não")}
+                                ");
+                Console.WriteLine($"Aperte 'ENTER' para continuar");
+                Console.ReadLine();
+            }
+
+            // Console.Clear();
+            // Console.WriteLine(@$"
+            //                     Nome: {novaPj.nome}
+            //                     Razão Social: {novaPj.razaoSocial}
+            //                     CNPJ: {novaPj.cnpj} - Valido: {(novaPj.ValidarCnpj(novaPj.cnpj) ? "Sim" : "Não")}
+            //                     ");
+
+            // // condição ? "sim" : "nao"
+            // Console.WriteLine($"Aperte 'ENTER' para continuar");
+            // Console.ReadLine();
 
 
             break;
